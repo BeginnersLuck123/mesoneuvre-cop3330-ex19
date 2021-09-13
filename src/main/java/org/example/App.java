@@ -35,7 +35,7 @@ public class App
         }
         else if(BMI < 18.5)
         {
-            System.out.println("You are underweight. You should see your doctor");
+            System.out.println("You are underweight. You should see your doctor.");
         }
     }
 }
